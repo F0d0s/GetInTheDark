@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4f1a4b5208cc89a458d6c941ed2d63a7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MADE Soulmaze
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c8497ec6326ff6b4bb7d2c0741dac3e0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
